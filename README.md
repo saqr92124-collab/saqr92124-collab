@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Saqr! 🚀 From Beheira to NASA
 
-<!--
-**saqr92124-collab/saqr92124-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌌 My Mission: Become a Space Engineer at NASA
 
-Here are some ideas to get you started:
+I'm a future space engineer from Egypt. I started my journey on Oct 30, 2026.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🛰️ Currently Learning:**
+- 🐍 Python (for rockets & AI)
+- 📡 English (the language of space)
+- 🚀 Git & GitHub (where NASA code lives)
+
+**📍 Location:** Fazarah, Beheira, Egypt
+**🎯 Goal:** NASA Scholarship
+
+> "من البحيرة للفضاء - The sky is not the limit, it's just the beginning!"
+
+### My Projects:
+- [My Space Dream](https://github.com/saqr92124-collab/My-space-dream) - My first mission log
+
+---
+⭐ From the Nile to the Stars ⭐
